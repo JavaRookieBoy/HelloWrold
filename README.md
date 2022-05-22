@@ -1,2 +1,6 @@
 # HelloWrold
-public class PhoneTest {     public static void main(String[] args) {   System.out.println(HelloWrold);   } }
+public class Test {
+    public static void main(String[] args) {
+        System.out.println(HelloWrold);  
+    }
+}
